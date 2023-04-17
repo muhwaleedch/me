@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/me/static/css/main.478278cb.chunk.css",
-    "main.js": "/me/static/js/main.bc3a3ba7.chunk.js",
-    "main.js.map": "/me/static/js/main.bc3a3ba7.chunk.js.map",
+    "main.js": "/me/static/js/main.89d92c19.chunk.js",
+    "main.js.map": "/me/static/js/main.89d92c19.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.d5de358b.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.d5de358b.js.map",
     "static/css/2.0e2340a6.chunk.css": "/me/static/css/2.0e2340a6.chunk.css",
@@ -60,7 +60,6 @@
     "static/media/eduPurple.0d11a0cf.svg": "/me/static/media/eduPurple.0d11a0cf.svg",
     "static/media/eduRed.55e01742.svg": "/me/static/media/eduRed.55e01742.svg",
     "static/media/eduYellow.6b8f8b23.svg": "/me/static/media/eduYellow.6b8f8b23.svg",
-    "static/media/eight.98202b95.svg": "/me/static/media/eight.98202b95.svg",
     "static/media/expBlack.777d4bba.svg": "/me/static/media/expBlack.777d4bba.svg",
     "static/media/expBlue.159c6388.svg": "/me/static/media/expBlue.159c6388.svg",
     "static/media/expGreen.dffa1cc6.svg": "/me/static/media/expGreen.dffa1cc6.svg",
@@ -74,9 +73,7 @@
     "static/media/fastify.1b930a41.svg": "/me/static/media/fastify.1b930a41.svg",
     "static/media/figma.1cd44608.svg": "/me/static/media/figma.1cd44608.svg",
     "static/media/firebase.99786447.svg": "/me/static/media/firebase.99786447.svg",
-    "static/media/five.89b924eb.svg": "/me/static/media/five.89b924eb.svg",
     "static/media/flutter.643a93c8.svg": "/me/static/media/flutter.643a93c8.svg",
-    "static/media/four.797cac62.svg": "/me/static/media/four.797cac62.svg",
     "static/media/gcp.1b20e46e.svg": "/me/static/media/gcp.1b20e46e.svg",
     "static/media/gimp.7cff4c04.svg": "/me/static/media/gimp.7cff4c04.svg",
     "static/media/girl1.7f9d8736.svg": "/me/static/media/girl1.7f9d8736.svg",
@@ -131,8 +128,6 @@
     "static/media/resume.f3c0d8ae.pdf": "/me/static/media/resume.f3c0d8ae.pdf",
     "static/media/ruby.34e792ab.svg": "/me/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/me/static/media/selenium.7dcf1c14.svg",
-    "static/media/seven.3168c0a5.svg": "/me/static/media/seven.3168c0a5.svg",
-    "static/media/six.bd765919.svg": "/me/static/media/six.bd765919.svg",
     "static/media/sketch.87c83552.svg": "/me/static/media/sketch.87c83552.svg",
     "static/media/slick-theme.css": "/me/static/media/slick.c94f7671.ttf",
     "static/media/strapi.ac0a6e67.svg": "/me/static/media/strapi.ac0a6e67.svg",
@@ -140,7 +135,6 @@
     "static/media/swift.a030128a.svg": "/me/static/media/swift.a030128a.svg",
     "static/media/tailwind.254c4865.svg": "/me/static/media/tailwind.254c4865.svg",
     "static/media/tensorflow.6d6f2e37.svg": "/me/static/media/tensorflow.6d6f2e37.svg",
-    "static/media/three.d4f751d1.svg": "/me/static/media/three.d4f751d1.svg",
     "static/media/two.721a0672.svg": "/me/static/media/two.721a0672.svg",
     "static/media/typescript.31f8fee8.svg": "/me/static/media/typescript.31f8fee8.svg",
     "static/media/unity.ad58069d.svg": "/me/static/media/unity.ad58069d.svg",
@@ -158,6 +152,6 @@
     "static/css/2.0e2340a6.chunk.css",
     "static/js/2.909b10db.chunk.js",
     "static/css/main.478278cb.chunk.css",
-    "static/js/main.bc3a3ba7.chunk.js"
+    "static/js/main.89d92c19.chunk.js"
   ]
 }
